@@ -1,8 +1,3 @@
-# Decompiled with PyLingual (https://pylingual.io)
-# Internal filename: /home/oe1/atv75arm/build-enviroment/builds/openatv/release/sf8008/tmp/work/sf8008-oe-linux-gnueabi/enigma2-plugin-extensions-chromium2/1.0+20240517/image/usr/lib/enigma2/python/Plugins/Extensions/Chromium/datasocket.py
-# Bytecode version: 3.12.0rc2 (3531)
-# Source timestamp: 2088-08-23 15:58:29 UTC (3744115109)
-
 global onCommandReceived
 global onBrowserClosed
 global browserclients
