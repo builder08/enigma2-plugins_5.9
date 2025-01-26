@@ -1,8 +1,3 @@
-# Decompiled with PyLingual (https://pylingual.io)
-# Internal filename: /home/oe1/atv75arm/build-enviroment/builds/openatv/release/sf8008/tmp/work/sf8008-oe-linux-gnueabi/enigma2-plugin-extensions-chromium2/1.0+20240517/image/usr/lib/enigma2/python/Plugins/Extensions/Chromium/plugin.py
-# Bytecode version: 3.12.0rc2 (3531)
-# Source timestamp: 2042-04-15 23:52:37 UTC (2281218757)
-
 from __future__ import absolute_import
 from . import _
 from Components.ActionMap import NumberActionMap, ActionMap
