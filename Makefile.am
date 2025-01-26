@@ -16,6 +16,7 @@ SUBDIRS = \
 	bonjour \
 	cdinfo \
 	channelselectionshorttitle \
+        Chromium \
 	curlytx \
 	dreamexplorer \
 	dreamirc \
